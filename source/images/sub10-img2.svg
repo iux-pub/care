@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <g id="그룹_13232" data-name="그룹 13232" transform="translate(-400 -5066)">
+    <g id="사각형_4799" data-name="사각형 4799" transform="translate(400 5066)" fill="#f3f3f3" stroke="#f3f3f3" stroke-width="1">
+      <rect width="1200" height="720" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1199" height="719" fill="none"/>
+    </g>
+    <line id="선_281" data-name="선 281" y2="259" transform="translate(999.5 5207.5)" fill="none" stroke="#555" stroke-width="1"/>
+    <line id="선_282" data-name="선 282" y2="74.833" transform="translate(738.5 5466.5)" fill="none" stroke="#555" stroke-width="1"/>
+    <line id="선_329" data-name="선 329" y2="74.833" transform="translate(599.5 5541.333)" fill="none" stroke="#555" stroke-width="1"/>
+    <line id="선_331" data-name="선 331" y2="74.833" transform="translate(1138.5 5541.333)" fill="none" stroke="#555" stroke-width="1"/>
+    <line id="선_330" data-name="선 330" y2="74.833" transform="translate(866 5541.333)" fill="none" stroke="#555" stroke-width="1"/>
+    <line id="선_332" data-name="선 332" y2="74.833" transform="translate(1405 5541.333)" fill="none" stroke="#555" stroke-width="1"/>
+    <line id="선_285" data-name="선 285" y2="74.833" transform="translate(1271.5 5466.5)" fill="none" stroke="#555" stroke-width="1"/>
+    <line id="선_286" data-name="선 286" x1="300" transform="translate(999.5 5233.5)" fill="none" stroke="#888" stroke-width="1"/>
+    <line id="선_287" data-name="선 287" x1="300" transform="translate(999.5 5357.5)" fill="none" stroke="#888" stroke-width="1"/>
+    <line id="선_288" data-name="선 288" x1="533" transform="translate(738.5 5466.5)" fill="none" stroke="#888" stroke-width="1"/>
+    <line id="선_328" data-name="선 328" x1="267" transform="translate(599.5 5541.5)" fill="none" stroke="#888" stroke-width="1"/>
+    <line id="선_333" data-name="선 333" x1="267" transform="translate(1139 5541.5)" fill="none" stroke="#888" stroke-width="1"/>
+    <g id="사각형_5379" data-name="사각형 5379" transform="translate(899 5147)" fill="#3d47c8" stroke="#3a58b7" stroke-width="1">
+      <rect width="200" height="60" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="199" height="59" rx="4.5" fill="none"/>
+    </g>
+    <g id="사각형_5380" data-name="사각형 5380" transform="translate(909 5398)" fill="#3ba6b2" stroke="#2083a5" stroke-width="1">
+      <rect width="180" height="50" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="179" height="49" rx="4.5" fill="none"/>
+    </g>
+    <g id="사각형_5382" data-name="사각형 5382" transform="translate(509 5629)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="180" height="31" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="179" height="30" rx="4.5" fill="none"/>
+    </g>
+    <g id="사각형_5614" data-name="사각형 5614" transform="translate(1048 5629)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="180" height="31" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="179" height="30" rx="4.5" fill="none"/>
+    </g>
+    <g id="사각형_5611" data-name="사각형 5611" transform="translate(776 5629)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="180" height="31" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="179" height="30" rx="4.5" fill="none"/>
+    </g>
+    <g id="사각형_5615" data-name="사각형 5615" transform="translate(1315 5629)" fill="#fff" stroke="#fff" stroke-width="1">
+      <rect width="180" height="31" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="179" height="30" rx="4.5" fill="none"/>
+    </g>
+    <g id="사각형_5388" data-name="사각형 5388" transform="translate(689 5589) rotate(180)" fill="#7d7d7d" stroke="#7d7d7d" stroke-width="1">
+      <path d="M0,0H180a0,0,0,0,1,0,0V26a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M1,.5H179a.5.5,0,0,1,.5.5V26a4.5,4.5,0,0,1-4.5,4.5H5A4.5,4.5,0,0,1,.5,26V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+    </g>
+    <g id="사각형_5612" data-name="사각형 5612" transform="translate(1228 5589) rotate(180)" fill="#7d7d7d" stroke="#7d7d7d" stroke-width="1">
+      <path d="M0,0H180a0,0,0,0,1,0,0V26a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M1,.5H179a.5.5,0,0,1,.5.5V26a4.5,4.5,0,0,1-4.5,4.5H5A4.5,4.5,0,0,1,.5,26V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+    </g>
+    <path id="사각형_5609" data-name="사각형 5609" d="M0,0H180a0,0,0,0,1,0,0V26a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" transform="translate(509 5589)" fill="#fff"/>
+    <path id="사각형_5613" data-name="사각형 5613" d="M0,0H180a0,0,0,0,1,0,0V26a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" transform="translate(1048 5589)" fill="#fff"/>
+    <path id="사각형_5610" data-name="사각형 5610" d="M0,0H180a0,0,0,0,1,0,0V26a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" transform="translate(776 5589)" fill="#fff"/>
+    <path id="사각형_5616" data-name="사각형 5616" d="M0,0H180a0,0,0,0,1,0,0V26a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" transform="translate(1315 5589)" fill="#fff"/>
+    <g id="사각형_5389" data-name="사각형 5389" transform="translate(956 5589) rotate(180)" fill="#7d7d7d" stroke="#7d7d7d" stroke-width="1">
+      <path d="M0,0H180a0,0,0,0,1,0,0V25a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M1,.5H179a.5.5,0,0,1,.5.5V25a4.5,4.5,0,0,1-4.5,4.5H5A4.5,4.5,0,0,1,.5,25V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+    </g>
+    <g id="사각형_5617" data-name="사각형 5617" transform="translate(1495 5589) rotate(180)" fill="#7d7d7d" stroke="#7d7d7d" stroke-width="1">
+      <path d="M0,0H180a0,0,0,0,1,0,0V25a5,5,0,0,1-5,5H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M1,.5H179a.5.5,0,0,1,.5.5V25a4.5,4.5,0,0,1-4.5,4.5H5A4.5,4.5,0,0,1,.5,25V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+    </g>
+    <g id="사각형_5392" data-name="사각형 5392" transform="translate(1250 5178)" fill="#db7632" stroke="#c56e33" stroke-width="1">
+      <rect width="180" height="110" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="179" height="109" rx="4.5" fill="none"/>
+    </g>
+    <g id="사각형_5393" data-name="사각형 5393" transform="translate(1250 5318)" fill="#68a523" stroke="#557217" stroke-width="1">
+      <rect width="180" height="80" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="179" height="79" rx="4.5" fill="none"/>
+    </g>
+    <text id="센터장" transform="translate(999 5186)" fill="#fff" font-size="19" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-25" y="0">센터장</tspan></text>
+    <text id="과장" transform="translate(999 5431)" fill="#fff" font-size="18" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-16" y="0">과장</tspan></text>
+    <text id="운영위원회_자립지원위원회_지역케어위원회" data-name="운영위원회
+자립지원위원회
+지역케어위원회" transform="translate(1340 5210)" fill="#fff" font-size="18" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-40" y="0">운영위원회</tspan><tspan x="-56" y="30">자립지원위원회</tspan><tspan x="-56" y="60">지역케어위원회</tspan></text>
+    <text id="인사위원회_고충처리위원회" data-name="인사위원회
+고충처리위원회" transform="translate(1340 5351)" fill="#fff" font-size="18" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-40" y="0">인사위원회</tspan><tspan x="-56" y="30">고충처리위원회</tspan></text>
+    <text id="운영지원팀" transform="translate(599 5581)" fill="#fff" font-size="17" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-38" y="0">운영지원팀</tspan></text>
+    <text id="자립지원1팀" transform="translate(1138 5581)" fill="#fff" font-size="17" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-42" y="0">자립지원1팀</tspan></text>
+    <text id="사회복지사_기능직" data-name="사회복지사, 기능직" transform="translate(599 5652)" fill="#555" font-size="17" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-65" y="0">사회복지사, 기능직</tspan></text>
+    <text id="자립지원사" transform="translate(1138 5652)" fill="#555" font-size="17" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-38" y="0">자립지원사</tspan></text>
+    <text id="사회복지사_단기체험_" data-name="사회복지사(단기체험)" transform="translate(866 5652)" fill="#555" font-size="17" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-74" y="0">사회복지사(단기체험)</tspan></text>
+    <text id="자립지원사-2" data-name="자립지원사" transform="translate(1405 5652)" fill="#555" font-size="17" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-38" y="0">자립지원사</tspan></text>
+    <text id="팀장" transform="translate(599 5610)" fill="#555" font-size="17" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-15" y="0">팀장</tspan></text>
+    <text id="팀장-2" data-name="팀장" transform="translate(1138 5610)" fill="#555" font-size="17" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-15" y="0">팀장</tspan></text>
+    <text id="팀장-3" data-name="팀장" transform="translate(867 5610)" fill="#555" font-size="17" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-15" y="0">팀장</tspan></text>
+    <text id="팀장-4" data-name="팀장" transform="translate(1406 5610)" fill="#555" font-size="17" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-15" y="0">팀장</tspan></text>
+    <text id="돌봄지원팀" transform="translate(866 5581)" fill="#fff" font-size="17" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-38" y="0">돌봄지원팀</tspan></text>
+    <text id="자립지원2팀" transform="translate(1405 5581)" fill="#fff" font-size="17" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-42" y="0">자립지원2팀</tspan></text>
+    <g id="사각형_5385" data-name="사각형 5385" transform="translate(648 5485)" fill="#343c3d" stroke="#2d3435" stroke-width="1">
+      <rect width="180" height="40" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="179" height="39" rx="4.5" fill="none"/>
+    </g>
+    <g id="사각형_5386" data-name="사각형 5386" transform="translate(1181 5485)" fill="#343c3d" stroke="#2d3435" stroke-width="1">
+      <rect width="180" height="40" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="179" height="39" rx="4.5" fill="none"/>
+    </g>
+    <text id="사업_1팀" data-name="사업 1팀" transform="translate(738 5513)" fill="#fff" font-size="18" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-31" y="0">사업 1팀</tspan></text>
+    <text id="사업_2팀" data-name="사업 2팀" transform="translate(1271 5513)" fill="#fff" font-size="18" font-family="SourceHanSansKR-Regular, Source Han Sans KR" letter-spacing="-0.02em"><tspan x="-31" y="0">사업 2팀</tspan></text>
+  </g>
+</svg>

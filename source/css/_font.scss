@@ -1,0 +1,78 @@
+
+/*
+Copyright (c) 2021 Kil Hyung-jin, with Reserved Font Name Pretendard.
+https://github.com/orioncactus/pretendard
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+*/
+
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 100;
+  src: url("../font/NotoSansKR-Thin.woff2") format('woff2'),
+  url("../font/NotoSansKR-Thin.woff") format('woff'),
+  url("../font/NotoSansKR-Thin.otf") format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 300;
+  src: url("../font/NotoSansKR-Light.woff2") format('woff2'),
+  url("../font/NotoSansKR-Light.woff") format('woff'),
+  url("../font/NotoSansKR-Light.otf") format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../font/NotoSansKR-Regular.woff2") format('woff2'),
+  url("../font/NotoSansKR-Regular.woff2") format('woff'),
+  url("../font/NotoSansKR-Regular.otf") format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 500;
+  src: url("../font/NotoSansKR-Medium.woff2") format('woff2'),
+  url("../font/NotoSansKR-Medium.woff") format('woff'),
+  url("../font/NotoSansKR-Medium.otf") format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 700;
+  src: url("../font/NotoSansKR-Bold.woff2") format('woff2'),
+  url("../font/NotoSansKR-Bold.woff") format('woff'),
+  url("../font/NotoSansKR-Bold.otf") format('opentype');
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 900;
+  src: url("../font/NotoSansKR-Black.woff2") format('woff2'),
+  url("../font/NotoSansKR-Black.woff") format('woff'),
+  url("../font/NotoSansKR-Black.otf") format('opentype');
+}
+
+
+
+$myfont: "Noto Sans KR";
+
+
+@mixin txt($weight) {
+    @if $weight == light {
+        font-weight:300;
+    }
+    @else if $weight == normal {
+        font-weight:400;
+    }
+    @else if $weight == bold {
+        font-weight:700;
+    }
+    @else if $weight == bolder {
+        font-weight:800;
+    }
+}

@@ -1,0 +1,65 @@
+$text-color: #404040;
+$text-link-color: #404040;
+
+$color-main: #2C8CCB;
+// $color-main:#959623;
+// $color-main:#786355;
+
+$color-black: #222;
+$color-gray: #1f222d;
+
+
+
+
+div#content.sub01 div.sub-head {
+
+    background:#74C8FF;
+
+    &.fix {
+        background:rgba(116,200,255, .8);
+
+    }
+}
+div#content.sub02 div.sub-head {
+
+    background:#91DCD2;
+
+    &.fix {
+        background:rgba(145,220,210, .8); 
+
+    }
+}
+div#content.sub03 div.sub-head {
+
+    background:#88C46F;
+    
+
+    &.fix {
+        background:rgba(136,196,111, .8);
+
+    }
+}
+div#content.sub04 div.sub-head {
+
+    background:#FFCE48;
+    
+
+    &.fix {
+        background:rgba(255,206,72, .8);
+
+    }
+}
+
+div#content.sub05 div.sub-head {
+
+    background:#8FABE3;
+    
+
+    &.fix {
+        background:rgba(143,171,227, .8);
+
+    }
+}
+
+
+

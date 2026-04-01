@@ -1,0 +1,160 @@
+@mixin flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: -webkit-flex;
+    -webkit-align-item: center;
+    -webkit-justify-content: center;
+}
+
+@mixin full {
+    width: 100%;
+    height: 100%;
+}
+
+@mixin pmz($padding, $margin) {
+    margin: $margin;
+    padding: $padding;
+}
+
+@mixin full-position {
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+@mixin zero {
+    font-size:0;
+}
+
+@mixin fsize($fsize) {
+    font-size: $fsize;
+    line-height: $fsize * 1.4;
+}
+
+@mixin border($width, $color, $border-style: solid) {
+    border: {
+        width: $width;
+        color: $color;
+        style: $border-style;
+    }
+}
+
+@mixin box-sizing($type:border-box) {
+    -webkit-box-sizing: $type;
+    -moz-box-sizing: $type;
+    box-sizing: $type;
+}
+
+@mixin border-radius($radius) {
+    -webkit-border-radius: $radius;
+    -moz-border-radius: $radius;
+    border-radius: $radius;
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+}
+
+@mixin drop-shadow($x:0,$y: 2px, $blur: 2px, $spread: 0, $alpha: 0.25) {
+    -webkit-box-shadow: $x $y $blur $spread rgba(0, 0, 0, $alpha);
+    -moz-box-shadow: $x $y $blur $spread rgba(0, 0, 0, $alpha);
+    box-shadow: $x $y $blur $spread rgba(0, 0, 0, $alpha);
+}
+
+@mixin inner-shadow($x:0,$y: 2px, $blur: 2px, $spread: 0, $alpha: 0.25) {
+    -webkit-box-shadow: $x $y $blur $spread rgba(0, 0, 0, $alpha) inset;
+    -moz-box-shadow: $x $y $blur $spread rgba(0, 0, 0, $alpha) inset;
+    box-shadow: $x $y $blur $spread rgba(0, 0, 0, $alpha) inset;
+}
+
+@mixin text-shadow($string:0 1px 3px rgba(0, 0, 0, 0.25)) {
+    text-shadow: $string;
+}
+
+@mixin opacity($opacity) {
+    -webkit-opacity: $opacity;
+    -moz-opacity: $opacity;
+    opacity: $opacity;
+}
+
+@mixin gradient($to:top, $startColor:#eee, $ingColor: #eee, $endColor: white) {
+    background-color: $startColor;
+    background: linear-gradient($to, $startColor, $ingColor, $endColor);
+}
+
+
+@mixin ani($time:0.2s) {
+    -webkit-transition: all $time ease ;
+    -moz-transition: all $time ease ;
+    -o-transition: all $time ease ;
+    -ms-transition: all $time ease ;
+    transition: all $time ease ;
+}
+
+@mixin container($con-width) {
+    position:relative;
+    display:inline-block;
+    margin: 0 auto;
+    width: $con-width;
+    height: 100%;
+}
+
+@mixin blur($blur) {
+    filter: blur($blur);
+    -webkit-filter: blur($blur);
+    -moz-filter: blur($blur);
+    -o-filter: blur($blur);
+}
+
+@mixin ellipse {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+@mixin placeholder($size, $color) {
+
+
+
+    &::-webkit-input-placeholder {
+        color: $color;
+        font-size: rem($size);
+
+        @media all and ($screen-size-pc) {
+            font-size: $size;
+        }
+
+    }
+
+    &:-moz-placeholder {
+        color: $color;
+        font-size: rem($size);
+
+        @media all and ($screen-size-pc) {
+            font-size: $size;
+        }
+    }
+
+    &::-ms-input-placeholder {
+        color: $color;
+        font-size: rem($size);
+
+        @media all and ($screen-size-pc) {
+            font-size: $size;
+        }
+    }
+}
+
+@mixin backcover($background) {
+    background: {
+        image: $background;
+        repeat: no-repeat;
+        size: cover;
+        width: 100%;
+        height: auto;
+        position:center center;
+    }
+}
+
+
