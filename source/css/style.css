@@ -6021,13 +6021,13 @@ body div#content.sub section.sub-content div.container div.b-content div.sub-con
   color: #fff;
   border: 1px solid #bf3e7b;
   background: #dd488e;
-  width: 210px;
   height: 44px;
   text-align: center;
   line-height: 44px;
   position: absolute;
   top: -21px;
   left: 0;
+  padding: 0 10px;
 }
 body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul h6 {
   margin: 0;
@@ -6064,7 +6064,7 @@ body div#content.sub section.sub-content div.container div.b-content div.sub-con
   font-weight: 400;
   color: #333;
 }
-body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > ul.procedure {
+body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > div.procedure {
   margin-top: 14px;
   display: flex;
   flex-wrap: wrap;
@@ -6073,23 +6073,23 @@ body div#content.sub section.sub-content div.container div.b-content div.sub-con
   gap: 35px 0;
 }
 @media (min-width: 1195px) {
-  body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > ul.procedure {
+  body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > div.procedure {
     gap: 22px 30px;
     flex-direction: row;
   }
 }
-body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > ul.procedure > li {
+body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > div.procedure > div {
   position: relative;
   width: 100%;
   height: 162px;
 }
 @media (min-width: 1195px) {
-  body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > ul.procedure > li {
+  body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > div.procedure > div {
     width: 350px;
     height: 162px;
   }
 }
-body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > ul.procedure > li::after {
+body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > div.procedure > div::after {
   content: "";
   display: block;
   background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3E%3Cg id='그룹_13222' data-name='그룹 13222' transform='translate(-790 -1176)'%3E%3Cg id='그룹_13221' data-name='그룹 13221' transform='translate(790 1176)'%3E%3Cpath id='패스_9405' data-name='패스 9405' d='M0,0H30V30H0Z' fill='none'/%3E%3C/g%3E%3Cpath id='패스_9407' data-name='패스 9407' d='M387-695.09v-16l10,8Z' transform='translate(414 1894.09)' fill='%235f6368'/%3E%3C/g%3E%3C/svg%3E%0A") no-repeat center/100%;
@@ -6101,16 +6101,16 @@ body div#content.sub section.sub-content div.container div.b-content div.sub-con
   transform: rotate(90deg) translateY(-50%);
 }
 @media (min-width: 1195px) {
-  body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > ul.procedure > li::after {
+  body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > div.procedure > div::after {
     top: 50%;
     right: -25px;
     transform: rotate(0);
   }
 }
-body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > ul.procedure > li:last-child::after {
+body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > div.procedure > div:last-child::after {
   display: none;
 }
-body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > ul.procedure > li p {
+body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > div.procedure > div p {
   margin: 0;
   border: 1px solid #e0c9d3;
   background: #feeff4;
@@ -6123,11 +6123,11 @@ body div#content.sub section.sub-content div.container div.b-content div.sub-con
   line-height: 44px;
 }
 @media (min-width: 1195px) {
-  body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > ul.procedure > li p {
+  body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > div.procedure > div p {
     width: 350px;
   }
 }
-body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > ul.procedure > li > ul {
+body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > div.procedure > div > ul {
   border: 1px solid #cbcbcb;
   border-top: none;
   padding: 17px 20px;
@@ -6136,7 +6136,7 @@ body div#content.sub section.sub-content div.container div.b-content div.sub-con
   flex-direction: column;
   justify-content: center;
 }
-body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > ul.procedure > li > ul li {
+body div#content.sub section.sub-content div.container div.b-content div.sub-content ul.sub-ul > li > div.procedure > div > ul li {
   font-size: 17px;
   font-weight: 400;
   color: #333;
